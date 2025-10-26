@@ -41,5 +41,12 @@ IDE: Visual Studio Code
 
 5. 🛡️ Security measures like sessions protect user data
 
+👾live demo
+https://glittering-squirrel-0c721e.netlify.app/
+
+🌐license
+This project is open source whereas free for demo.
+
+
 
 
